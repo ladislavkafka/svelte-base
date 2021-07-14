@@ -24,6 +24,12 @@ npm install --save @smui/button
 
 Navigate to [localhost:5000](http://localhost:5000). 
 
+
+
+## translations
+https://medium.com/i18n-and-l10n-resources-for-developers/a-step-by-step-guide-to-svelte-localization-with-svelte-i18n-v3-2c3ff0d645b8
+
+
 ## Building and running in production mode
 
 To create an optimised version of the app:
