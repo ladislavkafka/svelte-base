@@ -11,6 +11,14 @@ npx degit ladislavkafka/svelte-base component
 cd component
 npm install
 npm run dev
+
+
+# translations
+npm install --save svelte-i18n
+
+# MUI4
+npm install --save @smui/button
+
 ```
 
 
